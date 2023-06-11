@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, Suvayu Biswas here 👋
+I'm currenly a student 👨‍🎓 
+
+Learning java till perfection 😄
+
+📫 How to reach me: Feel free to mail me suvayubiswas2004@gmail.com 
+
 
 <!--
 **SuvayuBiswas/SuvayuBiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
