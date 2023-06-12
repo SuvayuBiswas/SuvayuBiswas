@@ -3,7 +3,7 @@ I'm currenly a student 👨‍🎓
 
 Learning java till perfection 😄
 
-📫 How to reach me: Feel free to mail me suvayubiswas2004@gmail.com 
+📫 How to reach me: Feel free to mail me at suvayubiswas2004@gmail.com 
 
 
 <!--
