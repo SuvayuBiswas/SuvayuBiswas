@@ -1,5 +1,5 @@
 ### Hi, Suvayu Biswas here 👋
-I'm currenly a student 👨‍🎓 
+I'm a student 👨‍🎓 
 
 Learning java till perfection 😄
 
