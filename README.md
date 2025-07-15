@@ -1,9 +1,9 @@
 ### Hi, Suvayu Biswas here 👋
 I'm a student 👨‍🎓 
 
-Learning java till perfection 😄
+Full Stack Web Developer | Problem solving using DSA in java | terminal knowledge in linux
 
-📫 How to reach me: Feel free to mail me at suvayubiswas2004@gmail.com 
+📫 How to reach me: Feel free to mail me at suvayu23@gmail.com 
 
 
 <!--
