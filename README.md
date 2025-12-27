@@ -1,5 +1,5 @@
 # Suvayu Biswas 👨‍💻
-### Full-Stack Developer | AI/ML Researcher | Cloud Enthusiast
+### Full-Stack Developer | AI/ML | Cloud Enthusiast
 
 *B.Tech Student at KIIT | Open to Internship Opportunities*
 
